@@ -12,3 +12,5 @@ streamlit run app.py
 ```
 
 # Examples 
+![alt text](https://github.com/pookiee/Lang_chain_experiments/blob/main/Summarize_and_consult.png?raw=true)
+![alt text](https://github.com/pookiee/Lang_chain_experiments/blob/main/Chat_with_pdf.png?raw=true)
