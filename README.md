@@ -8,4 +8,7 @@ python download_model.py
 ```
 For running the application
 ```bash
-streamlit run app.py```
+streamlit run app.py
+```
+
+# Examples 
